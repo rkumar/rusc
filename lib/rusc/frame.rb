@@ -1,5 +1,5 @@
-require "window.rb"
-require "functions.rb"
+require "rusc/window.rb"
+require "rusc/functions.rb"
 
 class RuscWindowFrame < RuscWindow
 	include RuscFunctions

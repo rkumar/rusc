@@ -1,4 +1,4 @@
-require 'functions.rb'
+require 'rusc/functions.rb'
 
 class RuscWindow 
 	include Ncurses

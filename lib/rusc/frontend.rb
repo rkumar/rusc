@@ -1,5 +1,5 @@
-require "general.rb"
-require "frame.rb"
+require "rusc/general.rb"
+require "rusc/frame.rb"
 
 class RuscFrontend
 	include Ncurses
